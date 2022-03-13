@@ -1,6 +1,6 @@
-I’m @mattmiller1
-I’m interested in teaching myself how to program
-I’m currently learning JavaScript, and nodejs
+- I’m @mattmiller1
+- I’m interested in teaching myself how to program
+- I’m currently learning JavaScript, and nodejs
 
 email: matt.mthomsen@gmail.com
 
